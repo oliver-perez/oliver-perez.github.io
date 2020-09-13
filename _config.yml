@@ -94,8 +94,8 @@ analytics:
 # Site Author
 author:
   name             : "Oliver Pérez"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I'm a Software Engineer with passion for developing iOS apps. I love to share what I learn with the rest of the developer community. I'm also a good Android and Unity developer. When I'm not coding you can find me playing my piano."
+  avatar           : path of avatar image, e.g. "/assets/images/bio-photo.png"
+  bio              : "I'm a Software Engineer with passion for developing iOS apps. I love to share what I learn with the rest of the developer community. When I'm not coding you can find me playing piano."
   location         : "Mexico City"
   email            :
   links:
@@ -107,7 +107,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/oliverperez_dev"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -116,7 +116,7 @@ author:
       url: "https://github.com/oliver-perez"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      # url: "https://www.linkedin.com/in/oliverjordyperez/"
 
 # Site Footer
 footer:
