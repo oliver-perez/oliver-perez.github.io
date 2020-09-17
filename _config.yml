@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Oliver Pérez"
-  avatar           : "/assets/images/blog-prof-pic.jpg"
+  avatar           : "/assets/images/bio-pic.jpg"
   bio              : "I'm a Software Engineer with passion for developing iOS apps. I love to share what I learn with the rest of the developer community. When I'm not coding you can find me playing piano."
   location         : "Mexico City"
   email            :
