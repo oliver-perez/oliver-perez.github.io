@@ -6,7 +6,7 @@ excerpt: "Design Patterns, Factory Method, Swift"
 ---
 Imagine that you're working on a musical app, like Garage Band, and you need a simple way to instantiate different virtual instruments. Let's see how you can use the Factory Method design pattern to solve this requirement.
 
-###Whats is the Factory Method design pattern?
+### Whats is the Factory Method design pattern?
 
 The Factory Method is one of the most popular creational design patterns. It's very simple and useful and you should definitely have it in your tool box. This pattern consists in defining a protocol to create an object type, but letting the classes that conform to that protocol decide which concrete object to instantiate.
 
