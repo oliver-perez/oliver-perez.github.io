@@ -1,7 +1,7 @@
 ---
 title: "Factory Method Design Pattern"
 date: 2020-09-13
-tags: [design patterns, swift, factory method, creational pattern]
+tags: [Design Pattern]
 excerpt: "Design Patterns, Factory Method, Swift"
 ---
 Imagine that you're working on a musical app, like Garage Band, and you need a simple way to instantiate different virtual instruments. Let's see how you can use the Factory Method design pattern to solve this requirement.
@@ -149,3 +149,6 @@ Use the Factory Method pattern when:
 ### Conclusion
 
 This design pattern allow us to create similar objects in a simple and decoupled manner. With the use of protocols maintains hidden the implementation details of each concrete product and its factory methods. This are always a good things, since makes easy to create testing mocks and decoupled modules. However, it has an important  downside, and it is that adding new products or factory methods implies changes in several places, so you have to craft carefully your design.
+
+### Resources
+This post was based from the Factory Method chapter from the book *Design Patterns: Elements of Reusable Object-Oriented Software*, by the gang of four. You should definitely read this book if your serious about your software development career.
