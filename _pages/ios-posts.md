@@ -10,8 +10,9 @@ author_profile: true
 
 {% for tag in group_names %}
   {% assign posts = group_items[forloop.index0] %}
-  <h2 id="{{ tag | slugify }}" class="archive__subtitle">{{ tag }}</h2>
+  <div>
   {% for post in paginator.posts %}
-    {% include archive-single.html %}
+    {% include archive-single.html type="grid" %}
   {% endfor %}
+  </div>
 {% endfor %}
