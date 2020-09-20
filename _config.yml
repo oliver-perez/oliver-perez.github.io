@@ -114,12 +114,12 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/oliver-perez"
-    -label: "LinkedIn"
-     icon: "fab fa-fw fa-linkedin"
-     url: "https://www.linkedin.com/in/oliverjordyperez/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url:  "https://www.linkedin.com/in/oliverjordyperez/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "
+      # url: "https://facebook.com/"
 
 # Site Footer
 footer:
