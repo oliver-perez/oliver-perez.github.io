@@ -15,7 +15,8 @@ The Abstract Factory is the most popular creational design pattern, some folks e
 
 The following UML diagram represents the structure of this pattern.
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/46c13e89-2031-4d0f-8a18-6918877468ef/Screen_Shot_2020-09-20_at_22.22.48.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/46c13e89-2031-4d0f-8a18-6918877468ef/Screen_Shot_2020-09-20_at_22.22.48.png)
+![image](https://user-images.githubusercontent.com/35386069/93963434-c986ee00-fd22-11ea-8a79-3c123afa6899.png)
+
 
 ### Participants
 
